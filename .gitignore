@@ -1,0 +1,18 @@
+# Training output
+runs/
+export/
+*.pt
+*.tflite
+*.onnx
+saved_model/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,21 @@
+name: leaf_scanner
+description: Live healthy / unhealthy leaf detection on Android, using a YOLO model you trained yourself.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.1 <4.0.0"
+  flutter: ">=3.32.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ultralytics_yolo: ^0.6.11
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/

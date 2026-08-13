@@ -1,0 +1,7 @@
+QUICK START  -  two commands
+==============================
+
+  pip install -r requirements.txt
+  python scripts/1_train.py              <- then 3_export_tflite.py, then 2_predict.py to check if it works in local
+
+Read README.md for the full walkthrough.

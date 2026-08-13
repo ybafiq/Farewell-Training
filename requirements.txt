@@ -1,0 +1,15 @@
+# Pinned on purpose. Loose versions are how "it worked last month" happens.
+ultralytics
+torch
+tensorflow
+onnx
+onnxruntime
+onnx2tf
+onnx-graphsurgeon
+sng4onnx
+numpy
+PyYAML
+opencv-python
+
+# Optional - only for scripts/0_make_healthy_unhealthy.py (downloading public data)
+kagglehub
