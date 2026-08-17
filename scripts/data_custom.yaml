@@ -3,4 +3,4 @@ val: D:\FGV\Farewell Training\yolo-phone-starter\data\val
 
 nc: 2 
 
-names: ["healthy", "unhealty"]
+names: ["healthy", "unhealthy"]

@@ -1,4 +1,5 @@
 # Pinned on purpose. Loose versions are how "it worked last month" happens.
+python==3.13.0
 ultralytics
 torch
 tensorflow

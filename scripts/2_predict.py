@@ -19,6 +19,6 @@ elif os.path.isfile(source_dir):
 
 if image_paths:
     # Jalankan prediksi secara pukal pada semua imej yang dijumpai
-    model.predict(source=image_paths, show=False, save=True, show_conf=False)
+    model.predict(source=image_paths, show=False, save=True, show_conf=True)
 else:
     print(f"Tiada imej dijumpai dalam laluan: {source_dir}")

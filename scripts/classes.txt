@@ -1,2 +1,2 @@
 healthy
-unhealty
+unhealthy
